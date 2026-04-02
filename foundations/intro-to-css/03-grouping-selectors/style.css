@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.first {
+    background: black;
+    color: white;
+}
+
+.second {
+    background: yellow;
+}
+
+.first,.second {
+    font-size: 28px; font-family: Arial, "Times New Roman", sans-serif;
+}
